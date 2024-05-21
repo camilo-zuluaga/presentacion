@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8b372;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1" data-name="Capa 1">
+    <circle class="cls-1" cx="501.72" cy="450.84" r="443.12"/>
+  </g>
+  <g id="Capa_2" data-name="Capa 2">
+    <g>
+      <polygon class="cls-1" points="501.72 787.91 394.33 1000 501.72 1000 501.72 787.91"/>
+      <polygon class="cls-1" points="501.72 787.91 609.12 1000 501.72 1000 501.72 787.91"/>
+    </g>
+  </g>
+</svg>
